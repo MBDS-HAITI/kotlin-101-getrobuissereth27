@@ -4,58 +4,76 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7bed087-0fe0-417f-b214-24cb0bb31a5e" name="Changes" comment="Merge remote-tracking branch 'origin/main'">
-      <change beforePath="$PROJECT_DIR$/Kotlin101.iml" beforeDir="false" />
-    </list>
+    <list default="true" id="298ab1a0-d3d9-43ae-a2d3-c2721354e694" name="Changes" comment="Lesson2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="PREVIOUS_COMMIT_AUTHORS">
-      <list>
-        <option value="github-classroom[bot] &lt;66690702+github-classroom[bot]@users.noreply.github.com&gt;" />
-      </list>
-    </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Kotlin101" />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 4
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;getrobuissereth27&quot;
+  }
 }</component>
-  <component name="ProjectId" id="3APBxEePaBOASIZMaaCrAC5R8kR" />
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/MBDS-HAITI/kotlin-101-getrobuissereth27.git&quot;,
+    &quot;accountId&quot;: &quot;54bab05d-dba9-44a5-90a3-ecb1aece2e6f&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="3AP5a2nhbJcvk6KWXQO5dP3UsrT" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Kotlin.Lesson1Kt.executor": "Run",
+    "Kotlin.Lesson2Kt.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "build.tools",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="kotlin-101-getrobuissereth27" />
+}]]></component>
+  <component name="RunManager" selected="Kotlin.Lesson2Kt">
+    <configuration name="Lesson1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.android.com.kotlin.one.Lesson1Kt" />
+      <module name="Kotlin101" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="kotlin-101-getrobuissereth27" />
-      <option name="filePath" />
-      <method v="2" />
+    <configuration name="Lesson2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.android.com.kotlin.one.Lesson2Kt" />
+      <module name="Kotlin101" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.Lesson2Kt" />
+        <item itemvalue="Kotlin.Lesson1Kt" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -67,56 +85,75 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b7bed087-0fe0-417f-b214-24cb0bb31a5e" name="Changes" comment="" />
-      <created>1772484571092</created>
+      <changelist id="298ab1a0-d3d9-43ae-a2d3-c2721354e694" name="Changes" comment="" />
+      <created>1772481425297</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1772484571092</updated>
-      <workItem from="1772484572674" duration="18000" />
-      <workItem from="1772484765295" duration="3216000" />
+      <updated>1772481425297</updated>
+      <workItem from="1772481426424" duration="2017000" />
+      <workItem from="1772484206819" duration="237000" />
+      <workItem from="1772486797995" duration="5039000" />
     </task>
-    <task id="LOCAL-00001" summary="termine">
+    <task id="LOCAL-00001" summary="Tp01">
       <option name="closed" value="true" />
-      <created>1772484878041</created>
+      <created>1772483750048</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1772484878041</updated>
+      <updated>1772483750048</updated>
     </task>
-    <task id="LOCAL-00002" summary="termine">
+    <task id="LOCAL-00002" summary="Tp01">
       <option name="closed" value="true" />
-      <created>1772484886368</created>
+      <created>1772483802015</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1772484886368</updated>
+      <updated>1772483802015</updated>
     </task>
-    <task id="LOCAL-00003" summary="termine">
+    <task id="LOCAL-00003" summary="Lesson2">
       <option name="closed" value="true" />
-      <created>1772484907243</created>
+      <created>1772490895700</created>
       <option name="number" value="00003" />
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
-      <updated>1772484907243</updated>
+      <updated>1772490895700</updated>
     </task>
-    <task id="LOCAL-00004" summary="Merge remote-tracking branch 'origin/main'">
+    <task id="LOCAL-00004" summary="Lesson2">
       <option name="closed" value="true" />
-      <created>1772485072873</created>
+      <created>1772490909432</created>
       <option name="number" value="00004" />
       <option name="presentableId" value="LOCAL-00004" />
       <option name="project" value="LOCAL" />
-      <updated>1772485072873</updated>
+      <updated>1772490909432</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Lesson2">
+      <option name="closed" value="true" />
+      <created>1772492298450</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1772492298450</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add deadline" />
-    <MESSAGE value="termine" />
-    <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/main'" />
+    <MESSAGE value="Tp01" />
+    <MESSAGE value="Lesson2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson2" />
   </component>
 </project>
